@@ -1,0 +1,55 @@
+/* Общие стили */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+/* Стили для секции с игроками */
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+}
+
+nav li {
+    margin: 0 20px;
+    font-size: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ff9100;
+    font-weight: bold;
+}
+
+/* Стили для заголовков */
+h2 {
+    color: #007bff;
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #333;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+/* Стили для параграфов */
+p {
+    color: #666;
+    font-size: 30px;
+    line-height: 1.5;
+}
